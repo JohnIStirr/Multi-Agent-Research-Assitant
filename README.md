@@ -3,3 +3,37 @@
 * Engineered a multi-agent orchestration framework with specialized agents for topic refinement, arXiv paper retrieval, insight extraction, report generation, and gap analysis using sequential execution workflows.
 * Integrated the arXiv API to automatically search and retrieve relevant research papers and implemented a custom routing mechanism that dynamically coordinated agent collaboration based on workflow state.
 * Developed human-in-the-loop approval workflows using AutoGen User Proxy Agents, enabling interactive review, workflow control, and reliable AI-assisted research generation.
+
+User
+
+↓
+
+Planner Agent
+
+↓
+
+Research Agent
+
+↓
+
+arXiv API
+
+↓
+
+Analyzer Agent
+
+↓
+
+Synthesizer Agent
+
+↓
+
+Gap Analysis Agent
+
+↓
+
+Human Approval
+
+↓
+
+Final Report
