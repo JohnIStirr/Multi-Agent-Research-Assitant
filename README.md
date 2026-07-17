@@ -1,4 +1,5 @@
 # 🤖 Agentic AI Research Platform
+# Yuhan Gao
 
 A multi-agent AI system that automates academic literature reviews by coordinating specialized AI agents for paper discovery, insight extraction, research synthesis, and gap analysis.
 
